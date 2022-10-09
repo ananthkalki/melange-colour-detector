@@ -1,2 +1,5 @@
 # melange-colour-detector
 The Melange Color Detector is a solution enabled by Image processing. The system and method provide the capacity and capability of analyzing and discovering the composition of the colored fibers in cloth samples. The device is enabled with necessary facilities for composite imagery of the provided cloth sample for a more precise collection of data. The composite image is transferred to the software through a wired/wireless network. The software uses the composite image to analyze and find distinct colors in the cloth sample with the help of image processing algorithms. The software compares the data of the found colors with the colors in the database to check if the replication of the cloth sample is feasible. The software outputs the percentage of distinct colors in the cloth sample. The software can simulate skills like experience with the help of machine learning algorithms by reviewing the data from the previous composite image regularly.
+
+
+have to create the physical machine to capture multiple images
